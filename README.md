@@ -1,4 +1,4 @@
-# intellAgents
+# intellAgents (Very much work in progress - I know that there are several bugs)
 
 Real-time open source intelligence (OSINT) dashboard that aggregates global news from RSS feeds, geolocates articles on an interactive 3D globe, and provides AI-powered analysis.
 
